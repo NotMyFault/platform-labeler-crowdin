@@ -1,0 +1,3 @@
+files:
+  - source: /src/main/resources/org/jvnet/hudson/plugins/platformlabeler/**/*.html
+    translation: /src/main/resources/org/jvnet/hudson/plugins/platformlabeler/**/%file_name%_%two_letters_code%.properties
