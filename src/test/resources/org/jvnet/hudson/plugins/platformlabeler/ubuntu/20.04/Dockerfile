@@ -1,2 +1,2 @@
-FROM ubuntu:focal-20220302
+FROM ubuntu:focal-20230126
 RUN apt-get update && apt-get install -y lsb-release
